@@ -1,2 +1,3 @@
 # Código sin nada
-print("Hola...")
+print("Hola, mi nombre es bastian")
+print(1 + 1)
